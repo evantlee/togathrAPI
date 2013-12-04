@@ -1,0 +1,2 @@
+This is the first version of the togathr Backend.
+It will integrate neo4django to interface with a neo4j database, and create a RESTful API to perform CRUD operations and more advanced queries and backend logic.
